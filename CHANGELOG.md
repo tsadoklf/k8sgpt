@@ -1,5 +1,33 @@
 # Changelog
 
+## [0.3.15](https://github.com/k8sgpt-ai/k8sgpt/compare/v0.3.14...v0.3.15) (2023-09-08)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/aws/aws-sdk-go to v1.44.333 ([#611](https://github.com/k8sgpt-ai/k8sgpt/issues/611)) ([96d97cf](https://github.com/k8sgpt-ai/k8sgpt/commit/96d97cfa30c4d3c75facda3d3016c080dfa86eaa))
+* **deps:** update module github.com/aws/aws-sdk-go to v1.45.0 ([#618](https://github.com/k8sgpt-ai/k8sgpt/issues/618)) ([632fc9a](https://github.com/k8sgpt-ai/k8sgpt/commit/632fc9a99fd0482dcff0768211c49bffb2e4032a))
+* **deps:** update module github.com/aws/aws-sdk-go to v1.45.1 ([#624](https://github.com/k8sgpt-ai/k8sgpt/issues/624)) ([09984c2](https://github.com/k8sgpt-ai/k8sgpt/commit/09984c245de40fc7794f85a9535af4f8e5f5e776))
+* **deps:** update module github.com/aws/aws-sdk-go to v1.45.2 ([#625](https://github.com/k8sgpt-ai/k8sgpt/issues/625)) ([b6498ef](https://github.com/k8sgpt-ai/k8sgpt/commit/b6498ef269919c61004dd860ebf08ed7f28810f7))
+* **deps:** update module github.com/aws/aws-sdk-go to v1.45.3 ([#632](https://github.com/k8sgpt-ai/k8sgpt/issues/632)) ([5f73240](https://github.com/k8sgpt-ai/k8sgpt/commit/5f73240a0615e58a37e9eb00784628621bc1dfa1))
+* **deps:** update module github.com/aws/aws-sdk-go to v1.45.6 ([#634](https://github.com/k8sgpt-ai/k8sgpt/issues/634)) ([3aabb48](https://github.com/k8sgpt-ai/k8sgpt/commit/3aabb4842d96ec14e61842847dc2feb3e3f31a0a))
+* **deps:** update module github.com/sashabaranov/go-openai to v1.15.1 ([#622](https://github.com/k8sgpt-ai/k8sgpt/issues/622)) ([fc90dc8](https://github.com/k8sgpt-ai/k8sgpt/commit/fc90dc865b48fae99253b8bb6a8b1ae7047170b4))
+* **deps:** update module golang.org/x/term to v0.12.0 ([#626](https://github.com/k8sgpt-ai/k8sgpt/issues/626)) ([44d17c5](https://github.com/k8sgpt-ai/k8sgpt/commit/44d17c51ff8ece92cd0c85f40d15caa97d990544))
+* typos ([#629](https://github.com/k8sgpt-ai/k8sgpt/issues/629)) ([067c348](https://github.com/k8sgpt-ai/k8sgpt/commit/067c3483e6b379bd710c7f799de63bc1890b6c81))
+* use-case while in cluster, connecting to an external ([#623](https://github.com/k8sgpt-ai/k8sgpt/issues/623)) ([1a7f45c](https://github.com/k8sgpt-ai/k8sgpt/commit/1a7f45cc55348d567148d01e61c7527e4d534f34))
+
+
+### Other
+
+* **deps:** update actions/checkout action to v4 ([#628](https://github.com/k8sgpt-ai/k8sgpt/issues/628)) ([e65d9a6](https://github.com/k8sgpt-ai/k8sgpt/commit/e65d9a650522120d602b2a62703aa2b39abfdea1))
+* **deps:** update actions/checkout digest to f43a0e5 ([#612](https://github.com/k8sgpt-ai/k8sgpt/issues/612)) ([6f9f7b2](https://github.com/k8sgpt-ai/k8sgpt/commit/6f9f7b2b602605f3be7fd02bd521574e9c26fa78))
+* **deps:** update docker/setup-buildx-action digest to 885d146 ([#615](https://github.com/k8sgpt-ai/k8sgpt/issues/615)) ([2c81dad](https://github.com/k8sgpt-ai/k8sgpt/commit/2c81dadb4d4abcdc3608be768c1f3aae87e53a68))
+* **deps:** update goreleaser/goreleaser-action digest to 5fdedb9 ([#631](https://github.com/k8sgpt-ai/k8sgpt/issues/631)) ([5de3b64](https://github.com/k8sgpt-ai/k8sgpt/commit/5de3b640988783df5a04db368f79b9b9eefdb8bf))
+* fixes a bug where filters do not deactive ([#621](https://github.com/k8sgpt-ai/k8sgpt/issues/621)) ([133850f](https://github.com/k8sgpt-ai/k8sgpt/commit/133850f984cc0bb41ec1e4521a32ab30558778f1))
+* slice loop replace ([#627](https://github.com/k8sgpt-ai/k8sgpt/issues/627)) ([c24825b](https://github.com/k8sgpt-ai/k8sgpt/commit/c24825b81025c5cd79224a79b52d6c5efdc00511))
+* updated protobuf libs ([#614](https://github.com/k8sgpt-ai/k8sgpt/issues/614)) ([5e17e66](https://github.com/k8sgpt-ai/k8sgpt/commit/5e17e666659c0eb057562def70d491daa995e5a2))
+* updated schema for integrations support ([#616](https://github.com/k8sgpt-ai/k8sgpt/issues/616)) ([8f0a2fd](https://github.com/k8sgpt-ai/k8sgpt/commit/8f0a2fd41d6705da4d1a1d288f3b6ce19711f30d))
+
 ## [0.3.14](https://github.com/k8sgpt-ai/k8sgpt/compare/v0.3.13...v0.3.14) (2023-08-25)
 
 
